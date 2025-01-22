@@ -364,3 +364,4 @@
 /Users/Z/Desktop/Net_projects/MvcMovie/obj/Debug/net9.0/MvcMovie.csproj.Up2Date
 /Users/Z/Desktop/Net_projects/MvcMovie/obj/Debug/net9.0/compressed/3w0sbgp9k0-n5mhuso9xv.gz
 /Users/Z/Desktop/Net_projects/MvcMovie/obj/Debug/net9.0/compressed/lqewxh1gkt-n5mhuso9xv.gz
+/Users/Z/Desktop/Net_projects/MvcMovie/obj/Debug/net9.0/MvcMovie.sourcelink.json
